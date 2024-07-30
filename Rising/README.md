@@ -1,19 +1,14 @@
-# Rising OS - Release Notes [3rd May 2024]
+# Rising OS - Release Notes [30th July 2024]
 
 ## DEVICE
 
-- Fixed NFC issue
-- Fixed Adaptive Refreshrate
-- Included Leica Camera
-- Updated Common Blobs from Haydn V816.0.1.0.UKKCNXM
-- Set Bootanimation to late-init
-- Imported Dirac from Marble
-- Updated Thermals
-- Tweaked Input Boost Configuration
+- Updated Blobs from 1.0.7.0.UMSCNXM
+- Fixed Over Heating Issue
+- Added Custom Live Display
+- Reconfigured Memory Pressure
 
 ## KERNEL
 
-- Kernel Upstreamed to 5.4.274
-- Imported Sony Scheduler Optimizations
-- Imported UFS SKHPB drivers from OnePlus
-- Reworked on CPU Scheduling
+- Upstreamed to 5.4.280
+- Enabled FAIR_GROUP_SCHED
+- Disabled snapshot, coresight and trace
