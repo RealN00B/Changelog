@@ -1,24 +1,16 @@
-# Infinity X OS - V1.4 - Release Notes [10th August 2024]
+# Infinity X OS - V1.5 - Release Notes [13th September 2024]
 
 ## DEVICE
 
-- Updated Blobs from 1.0.7.0.UMSCNXM
-- Updated Task Profile from Infinity Source
-- Optimized Memory Parameters under Heavy Loads
-- Faster Boot Time 
-- Switched to Default AOSP Media Codec
-- Added Live Display Support
-- Bumped up Blur Radius to 190px
-- Optimized Native Executables for Cortex-A76 CPU
+- Added GMS Doze (GAPPS Build)
+- Fixed Key Mapping on wired Headphone
+- Fixed Memory Management
+- Enabled Quick Tap
 
 ## KERNEL
 
-- Kernel Upstreamed to 5.4.281
-- Dropped Power Efficient Workingqueues
-- Enabled Idle Page Tracking
-- Introduced Data Access Monitor (DAMON)
-- Merged CAF LA.UM.9.14.r1-24900-LAHAINA.QSSI14.0
-- Relaxed Alarmtimer Wakelock
-- Optimized LSE Atomics
-- Removed android_fs Tracings
-- Demoted GC Thread to Idle Scheduler Class
+- Kernel Upstreamed to 5.4.283
+- Usptreamed ZSTD to v1.5.2
+- RCU Changes
+- Fixed Load Average of Sbalance
+- Added mmap Locking API
