@@ -1,0 +1,43 @@
+# PixelCore OS - V1.1 Alpha - Release Notes [31st Oct 2025]
+
+## SOURCE
+
+- Merged September Security Patch
+- Fixed Auto Brightness Toggle
+- Fixed Circle To Search
+- Fixed 4G to LTE Toggle
+- Fixed Tile Expansion Animation on Blur
+- Fixed Shade Blur
+- Fixed Icon Shape Preview
+- Fixed LS Clock Font Dynamic Change
+- Fixed Settings Homepage
+- Fixed Brightness Slider Gradient Theme
+- Fixed Volume Slider Haptics
+- Fixed Secure LockScreen Power Button
+- Fixed SB & QS Battery percentage View
+- Fixed SB Clock Position & AM/PM Toggle
+- Redesign Seekbar according to M3 Slider
+- Launch PixelParts when long clicking footer settings
+- Added Clock Chip Styles
+- Added Split Shade on landscape
+- Added Data Usage Tile & Panel View
+- Added Volume, Flashlight-Strength Tile
+- Added QS Tile,Brightness Slider Haptic Toggle
+- Added QS Tile Components Layout
+- Added QS Volume & Brightness Slider Placement
+- Added QS Volume & Brightness Slider Percentage
+- Added QS Media Player Placement
+- Added QS Row Layout Settings
+- Added QS Header Images
+- Added Transparent Notification
+- Added Long Press Torch Toggle
+- Added Per App Volume
+- Added LMOFreeForm & SideBar
+- Add Ability to Hide Carrier Name on Lockscreen
+- Added OmniJaws Weather Info
+- Added FP Authentication Vibration
+- Added Phone Ringtone Setting for Multi SIM device
+- Added Vibration for Incoming Call
+- Added Vibration Patterns from OOS
+- Added Partial ScreenShot
+- Added Edge Long Swipe Action
