@@ -1,6 +1,7 @@
 # PixelCore OS
 
 - Use any AOSP recovery for flash
+- Gapps are included
 - Flash the latest regional firmware
 - After the first boot, update the PIF
 - Built-in Leica camera
